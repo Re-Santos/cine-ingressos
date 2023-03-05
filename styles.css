@@ -13,7 +13,7 @@ body{
 header{
     height: 90px;
     display: flex;
- background-color: brown;
+ background-color:black;
               
 }
 nav {
@@ -32,17 +32,29 @@ ul{
 
 li{
     list-style:none ;
-    color: black;
+    color: white;
     padding-left: 100px;
     padding-right:90px;
     line-height: 90px;
     font-size: 25px;
-    margin-right: 60px;
+    margin-right: 100px;
     cursor: pointer;
     transition: 5s;
+        
+}
+#logo{
+    width: 150px;
+    height: auto;
     
 }
 
 li:hover{
-    color:white
+    color:red
+}
+
+#banner {
+    background-position: 50% 50%;
+    background-size: cover;
+    width: 100%;
+    height: 600px;
 }
