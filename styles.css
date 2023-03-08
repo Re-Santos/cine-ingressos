@@ -163,5 +163,31 @@ li:hover{
     transform: scale(1.02);
 }
 
+footer{
+    height: 300px;
+    margin-top: 50px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    
+}
 
+span{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    align-items: center;
+    font-size:19px ;
+    
+}
+
+.footer-navigation{
+    display: none;
+}
+
+.footer-list{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
