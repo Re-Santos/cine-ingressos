@@ -6,7 +6,7 @@
 <p>Site responsivo podendo ser acessado com mais qualidade por dispositivos móveis, tal como desktop.</p>
 
 <b>📚 Funcionalidades</b>
-<p>Funcionalidade 1: Página Home - Transição de cor nos tópicos do cabeçalho, assim como no botão de "comprar ingresso".<b> Traile do filme sendo
+<p>Funcionalidade 1: Página Home - Transição de cor nos tópicos do cabeçalho, assim como no botão de "comprar ingresso".<br> Traile do filme sendo
 acessado com controle no próprio site. Fotos dos principais personagens,com mouse pointer e efeito de aumento da escala para diferenciar a 
 foto selecionada.</p>
 <p>Funcionalidade 2: Página de fotos estática, com banner e imagens dos filmes.</p>
