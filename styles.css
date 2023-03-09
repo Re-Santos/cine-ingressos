@@ -8,18 +8,22 @@
 
 body{
     background-color:black;
+    font-family: 'Montserrat', sans-serif;
+    margin-right:-5%;
+      
+    
 }
 
 header{
     height: 90px;
     display: flex;
- background-color:black;
+    background-color:black;
               
 }
+
 nav {
     width: 60px;
-   
-       
+    
 }
 
 ul{
@@ -40,6 +44,7 @@ li{
     margin-right: 100px;
     cursor: pointer;
     transition: 5s;
+    font-family:400;
         
 }
 #logo{
@@ -52,12 +57,13 @@ li:hover{
     color:red
 }
 
-#banner {
+#banner,
+#banner-reserva {
     background-position: 50% 50%;
     background-size: cover;
     width: 100%;
-    height: 600px;
-}
+    height: 500px;
+  }
 
 #trailer-container {
     width: 100%;
@@ -73,20 +79,25 @@ li:hover{
     justify-content: space-between;
 }
 .trailer{
-    width: 50%;
-    margin-left:25%;
+    width: 60%;
+    margin-left:40%;
 }
 #sinopse{
     width: 50%;
+    margin-top: 4%;
     display:flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content:space-between;
     margin-left: 30px;
+    font-family:100;
+        
 }
 .description{
     color:white;
-    font-size: 19px;
+    font-size: 21px;
     width: 70%;
+    line-height: 30px;
+    
     
 }
 
@@ -98,7 +109,7 @@ li:hover{
     padding: 8px 10px;
     border-radius: 5px;
     cursor: pointer;
-    transition: 8s;
+    transition: 4s;
     font-size: 18px;
     display: flex;
     justify-content: center;
@@ -106,7 +117,9 @@ li:hover{
     font-weight: bold;
     border: none;
     outline: none;
-    margin-top: 25px;
+    margin-bottom: 9%;
+    font-family:400;
+    
 
 }
 
@@ -115,4 +128,113 @@ li:hover{
     color: black;
 }
 
+.actor-cards-container{
+    width:100%;
+    display:flex;
+    justify-content:center;
+    margin-top: 50px;
+}
 
+.cards-content{
+
+    width:100%;
+    display: grid;
+    grid-template-columns:repeat(3,1fr);
+    row-gap:20px;
+    column-gap:20px;
+
+}
+
+.card {
+    width: 100%;
+    height:200px;
+    margin-left: 10%;
+    background-size:cover;
+    background-position: 50% 50%;
+    border-radius:5px;
+    cursor:pointer;
+    transition:1s;
+    flex-direction:column;
+    justify-content:flex-end;
+    padding:0 0 20px 10px;
+    color: white;
+    font-size:19px;
+    font-family:100;
+
+}
+
+.card:hover{
+    transform: scale(1.02);
+}
+
+
+footer{
+    height: 300px;
+    margin-top: 50px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+span{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    align-items: center;
+    font-size:19px ;
+    
+}
+
+.footer-navigation{
+    display: none;
+}
+
+.footer-list{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media(max-width:768px){
+    .footer-navigation{
+        display: block;
+    }
+    nav{
+        display:none;
+    }
+    #banner{
+        background-position: 40%;
+    }
+    #trailer-container{
+        width:100%;
+        height: 400px;
+        display: flex;
+        flex-direction: column;
+    }
+    .content{
+        width: 95%;
+        display:flex;
+        flex-direction: column;
+   }
+   .trailer{
+    width: 100%;
+   }
+   #sinopse{
+    width: :95%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+   }
+   .description{
+    width: 100%;
+   }
+   .button{
+    width: 100%;
+    margin-top: 30px;
+   }
+   .cards-content{
+    grid-template-columns: 1fr;
+    margin-top: 150px;
+   }
+}
