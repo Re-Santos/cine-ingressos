@@ -25,7 +25,7 @@ formsubmti.co</p>
 
 <b>🚀 Rodando o projeto</b>
 
-<p>Acessar o deploy: https://re-santos.github.io./cine-ingressos/index.html
+<p>Acessar o deploy: https://re-santos.github.io./cine-ingressos/
 
 <b>🎯 Status do projeto</b>
 <p>Concluido, porém necessita de revisão de alguns detalhes, como adequação de margem.</p>
