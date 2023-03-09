@@ -6,11 +6,11 @@
 <p>Site responsivo podendo ser acessado com mais qualidade por dispositivos móveis, tal como desktop.</p>
 
 <b>📚 Funcionalidades</b>
-<p>Funcionalidade 1:Página Home - Transição de cor nos tópicos do cabeçalho, assim como no botão de "comprar ingresso". Traile do filme sendo
+<p>Funcionalidade 1: Página Home - Transição de cor nos tópicos do cabeçalho, assim como no botão de "comprar ingresso".<b> Traile do filme sendo
 acessado com controle no próprio site. Fotos dos principais personagens,com mouse pointer e efeito de aumento da escala para diferenciar a 
 foto selecionada.</p>
-<p>Funcionalidade 2:Página de fotos estática, com banner e imagens dos filmes.</p>
-<p>Funcionalidade 3:Página estática com banner sobre um filme ainda não lançado.</p>
+<p>Funcionalidade 2: Página de fotos estática, com banner e imagens dos filmes.</p>
+<p>Funcionalidade 3: Página estática com banner sobre um filme ainda não lançado.</p>
 <p>Funcionalidade 4: Página de contato funcional, onde é possível receber a mensagem do contato pelo e-mail sem as funções do back-end, por meio do
 formsubmti.co</p>
 <p>Observações: Notas de rodapé em todas as guias.</p>
@@ -25,7 +25,7 @@ formsubmti.co</p>
 
 <b>🚀 Rodando o projeto</b>
 
-<p>Acessar o deploy:https://re-santos.github.io./cine-ingressos/index.html
+<p>Acessar o deploy: https://re-santos.github.io./cine-ingressos/index.html
 
 <b>🎯 Status do projeto</b>
 <p>Concluido, porém necessita de revisão de alguns detalhes, como adequação de margem.</p>
