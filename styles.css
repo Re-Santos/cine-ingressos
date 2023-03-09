@@ -237,4 +237,18 @@ span{
     grid-template-columns: 1fr;
     margin-top: 150px;
    }
-}
+   .content-fotos{
+    grid-template-columns: 1fr;
+    margin-top: 150px;
+   }
+   .form label,
+   .form input,
+   .form textarea,
+   .form button {
+     display: block;
+     width: 100%;
+     font-size: 20px;
+     margin-left: -30%;
+    
+   }
+   
