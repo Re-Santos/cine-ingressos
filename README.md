@@ -1,11 +1,11 @@
 # 🗄️ CINE INGRESSOS
 
-📝 Descrição
+#📝 Descrição
 <p>Um site que simula a compra de ingressos de um filme, permite visualizar o trailer, fotos do filme e entrar em contato caso necessário.</p>
 
 <p>Site responsivo podendo ser acessado com mais qualidade por dispositivos móveis, tal como desktop.</p>
 
-📚 Funcionalidades
+#📚 Funcionalidades
 <p>Funcionalidade 1:Página Home - Transição de cor nos tópicos do cabeçalho, assim como no botão de "comprar ingresso". Traile do filme sendo
 acessado com controle no próprio site. Fotos dos principais personagens,com mouse pointer e efeito de aumento da escala para diferenciar a 
 foto selecionada.</p>
@@ -15,12 +15,14 @@ foto selecionada.</p>
 formsubmti.co</p>
 <p>Observações: Notas de rodapé em todas as guias.</p>
 
-🔧 Tecnologias utilizadas
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white 	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+#🔧 Tecnologias utilizadas
+![image](https://user-images.githubusercontent.com/123095086/224176846-d1fda3b8-8a64-44e8-9336-f937b14c74f0.png)
+![image](https://user-images.githubusercontent.com/123095086/224176873-998ab9df-4de5-41ec-a90c-a19dc8b25d4c.png)
 
-🚀 Rodando o projeto
+
+#🚀 Rodando o projeto
 
 <p>Acessar o deploy:https://re-santos.github.io./cine-ingressos/index.html
 
-🎯 Status do projeto
+#🎯 Status do projeto
 <p>Concluido, porém necessita de revisão de alguns detalhes, como adequação de margem.</p>
