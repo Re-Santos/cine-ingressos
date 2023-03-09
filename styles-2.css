@@ -10,7 +10,7 @@
 body{
     background-color:#ff6768;
     font-family: 'Montserrat', sans-serif;
-    margin-right:-5%;
+    
   }
 
   h1 {
@@ -121,4 +121,22 @@ span{
     font-family: 'Montserrat', sans-serif;
     align-items: center;
     font-size:19px ;
+  }
+  @media(max-width:768px){
+  .content-fotos {
+    columns: auto;
+    grid-template-columns: 1fr;
+    margin-top: 150px;
+   }
+   .form label,
+   .form input,
+   .form textarea,
+   .form button {
+     display: block;
+     width: 100%;
+     font-size: 20px;
+     margin-left: -30%;
+    
+   }
+
   }
