@@ -12,7 +12,7 @@ foto selecionada.</p>
 <p>Funcionalidade 2: Página de fotos estática, com banner e imagens dos filmes.</p>
 <p>Funcionalidade 3: Página estática com banner sobre um filme ainda não lançado.</p>
 <p>Funcionalidade 4: Página de contato funcional, onde é possível receber a mensagem do contato pelo e-mail sem as funções do back-end, por meio do
-formsubmti.co</p>
+formsubmit.co</p>
 <p>Observações: Notas de rodapé em todas as guias.</p>
 
 <b>🔧 Tecnologias utilizadas</b><br>
